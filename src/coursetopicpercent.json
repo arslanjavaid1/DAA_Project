@@ -1,0 +1,19 @@
+{
+  "percentage": {
+    {
+      "cid": "303",
+      "tid" : "1",
+      "percentage":"20"
+    },
+    {
+          "cid": "303",
+          "tid" : "3",
+          "percentage":"40"
+        },
+        {
+              "cid": "371",
+              "tid" : "2",
+              "percentage":"5"
+            },
+  }
+}

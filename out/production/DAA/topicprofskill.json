@@ -1,0 +1,19 @@
+{
+  "expertise": {
+    {
+      "tid": "1",
+      "pid" : "1",
+      "expertise":"5"
+    },
+    {
+          "tid": "2",
+          "pid" : "1",
+          "expertise":"1"
+     }
+     {
+              "tid": "2",
+              "pid" : "2",
+              "expertise":"5"
+     }
+  }
+}
